@@ -1,0 +1,270 @@
+customer_id,full_name,email,phone,age,annual_salary,registration_date,customer_category,status
+1001,matthew Brown,matthew.brown@job.com,(941) 395-1844,,34487,16/02/2023,Premium,1
+1002,Jennifer White,jennifer.white@test.com,392-979-4555,40,69560,28/12/2024,Basic,Active
+1003,John  Williams,john..williams@example.com,12154164113,40,,25/01/2022,Premium,0
+1004,Tom Thompson,tom.thompson@test.com,448-912-4350,34,131580,29/04/2020,Basic,Active
+1005,Daniel Rodriguez123,daniel.rodriguez@job.com,677-746-6886,59,57786,28/06/2021,Basic,Inactive
+1006,Anthony Wilson,anthony.wilson@company.com,19396806246,67,74424,12/02/2024,Basic,0
+1007,robert Brown,robert.brown@job.com,(426) 959-3390,49,125921,14/09/2021,Standart,Inactive
+1008,Heather Johnson,heather.johnson@company.com,502-356-4214,61,69520,18/03/2021,Basic,
+1009,Michael Williams,michael.williams@job.com,(870) 901-6530,,,,Premium,0
+1010,Jessica Jackson123,jessica.jackson@company.com,7026713756,83,28584,23/01/2021,Standard,Inactive
+1011,Mark Martinez,mark.martinez@example.com,388.755.1962,58,58792,07/09/2023,Basic,Active
+1012,Michael Rodriguez,michael.rodriguez@example.com,249-982-1104,45,108055,04/07/2023,Premium,Inactive
+1013,Jessica Miller,jessica.miller@job.com,209-4,55,53885,,Premium ,0
+1014,Mike Martin,mike.martincompany.com,85388,34,55137,18/04/2024,PREMIUM,Inactive
+1015,William Gonzalez,william.gonzalez@example.com,(744) 764-7739,,79057,03/01/2022,Basic,0
+1016,Amy Perez,amy.perez@company.com,12177148054,59,4490403,09/12/2023,Basic,Active
+1017,Jane Hernandez123,jane.hernandez@example.com,352.446.4144,63,62655,13/12/2024, Basic,Inactive
+1018,Daniel Thompson,daniel.thompson@example.com,280-582-7652,71,113302,10/06/2024,Standard,0
+1019,Matthew Anderson,matthew.anderson@company.com,(282) 869-1519,54,69825,02/04/2022,Basic,1
+1020,Amanda Rodriguez,amanda.rodriguez@example.com,(209) 919-3807,177,147079,08/09/2023,Basic,Active
+1021,Jessica Davis,jessica.davis@company.com,(297) 740-1697,36,66139,13/05/2023,Standard,Active
+1022,Mark Johnson,mark.johnsonexample.com,4772472218,25,142219,22/12/2021,Premium,Active
+1023,Jennifer Wilson,jennifer.wilson@job.com,13835221256,38,48957,,Basic,1
+1024,William Taylor,william.taylor@job,(607) 278-5903,,,24/04/2022,Premium,Active
+1025,Jennifer White,jennifer.white@company.com,7535397288,55,51170,31/05/2022,Standard,Active
+1026,Mark Lee,mark.leejob.com,(712) 963-6666,22,56726,24/10/2021,Basic,Active
+1027,John White,john.white@example.com,19878287499,75,52102,27/02/2023,Premium,
+1028,Lisa Taylor,lisa.taylor@job.com,661-702-4737,46,134437,07/02/2022,Premium ,Active
+1029,Matthew Taylor,matthew.taylor@company.com,8765892404,67,106080,04/03/2024, Basic,Inactive
+1030,Amanda Taylor,amanda.taylor@test.com,4743577225,54,127097,15/07/2022,premium,Inactive
+1031,Sarah Lopez,sarah.lopez@job.com,13092931085,24,145610,24/03/2022,Basic,0
+1032,Jane Davis,jane.davis@company.com,,,111956,11/03/2020,Basic,Inactive
+1033,Michelle Williams,michelle.williams@job.com,,,25868,, Standard,Active
+1034,Jennifer Thomas,jennifer.thomas@example.com,6235972387,50,95972,,Premim,Inactive
+1035,Stephanie Wilson,stephanie.wilson@job.com,(733) 373-7237,74,,18/10/2024,Basic,Active
+1036,Anthony Miller,anthony.miller@test.com,371-645-5521,65,142718,29/04/2024,Basic,1
+1037,Jessica Anderson,jessica.anderson@test.com,452.938.9123,43,,13/11/2023,Premium,Active
+1038,MIKE  Hernandez,mike..hernandez@company.com,16055407224,42,125173,07/02/2023,Standard,Inactive
+1039,anthony Lee123,anthony.lee@job.com,866-808-3230,40,,14/03/2023,Standard,0
+1040,James Davis,james.davis@example.com,(381) 607-6228,0,32097,01/01/1901,Premium,1
+1041,Elizabeth Jackson,elizabeth.jackson@example.com,(448) 533-7161,33,80466,26/06/2021,Premium,Active
+1042,ASHLEY Miller,ashley.millerexample.com,000-000-0000,72,95879,07/04/2023,Standard,Active
+1043,Elizabeth Johnson,elizabeth.johnsonjob.com,944-672-4434,51,70519,08/06/2021,Premium,Inactive
+1044,Michael White,michael.white@example.com,(618) 889-9180,50,114959,07/07/2020,Standard,Active
+1045,Tom Moore,tom.moore@example.com,633-586-2211,77,84925,11/03/2023,Premium,Inactive
+1046,Amy Williams,amy.williams@job.com,(908) 628-9907,37,,,Standard ,0
+1047,Jane Lee,jane.lee@company.com,(808) 853-2392,59,26549,20/12/2020,Standard,Active
+1048,Mark Davis,mark.davis@example.com,18272457547,56,74732,13/11/2023,Standard,Inactive
+1049,Michael Johnson123,michael.johnson@company.com,300.464.4637,63,67655,05/08/2024, Standard,0
+1050,Heather Anderson,heather.anderson@job.com,656-583-7408,58,137963,,standard,Inactive
+1051,Heather Moore,heather.moore@job,(225) 694-2712,41,96901,26/03/2023,Premium,Active
+1052,Tom Johnson,tom.johnsonjob.com,947-345-6707,82,60311,16/05/2024,Premium,1
+1053,Jane Johnson,jane.johnson@example.com,6872998178,69,105358,27/04/2024,Premium,0
+1054,Lisa Johnson,lisa.johnson@test.com,19273171370,46,49105,06/12/2024,Premium,Inactive
+1055,Stephanie Williams,stephanie.williams@job.com,(958) 449-9454,,52594,03/05/2022,Basic,Inactive
+1056,Daniel Davis123,daniel.davis@test.com,(437) 614-4022,85,123591,,Standard,0
+1057,Jennifer Jackson,jennifer.jackson@company.com,402-660-8037,19,136978,05/10/2024,Bascic,Inactive
+1058,Jennifer Thompson,jennifer.thompson@example.com,2647912667,62,84077,24/01/2020,Standard,Inactive
+1059,Matthew Martinez,matthew.martinez@job.com,316.468.9019,49,42188,18/07/2023,Premium,1
+1060,John Anderson,john.anderson@company.com,801-316-6700,,,16/09/2021,basic,1
+1061,Amanda Miller,amanda.miller@job.com,5048292388,,130393,15/10/2021,Premium,1
+1062,Mike Davis,mike.davis@example.com,582.910.3316,54,81651,02/11/2020,Basic,Inactive
+1063,Anthony Martinez,anthony.martinez@company.com,3906989804,84,50698,30/11/2023,PREMIUM,Active
+1064,John Perez,john.perez@test,(701) 495-3298,65,121802,13/04/2020,Premium,
+1065,David Rodriguez,david.rodriguez@job.com,(209) 696-3236,83,130600,15/03/2022,Basic,1
+1066,Chris Martinez,chris.martinez@job.com,618-901-9056,23,80249,, Standard,Inactive
+1067,Matthew Rodriguez,matthew.rodriguez@test.com,(231) 979-4613,42,142082,03/06/2022,Premim,Inactive
+1068,Jane  Williams,jane..williams@test.com,668.779.9115,28,92765,18/03/2022,Basic,0
+1069,Robert Jones,robert.jones@company.com,5757551681,,66383,19/11/2021,Basic,Active
+1070,Amanda Thompson123,amanda.thompson@company.com,(953) 869-5055,18,64326,16/03/2023,Basic,Inactive
+1071,Anthony Jones,anthony.jones@test,2896492923,44,137525,27/01/2023,standard,Inactive
+1072,David Wilson,david.wilson@company.com,(559) 927-8015,45,77219,23/06/2020,Standard,Inactive
+1073,Heather Johnson,heather.johnson@example.com,260.783.6747,,46409,08/06/2022,Standard,
+1074,Sarah Lopez,sarah.lopez@test.com,14994965380,73,131668,24/09/2020,Standard,Active
+1075,Stephanie White,stephanie.white@company.com,13389687743,27,134965,11/09/2022,Standard,Inactive
+1076,Heather Garcia123,heather.garcia@company.com,3354553396,37,83963,26/09/2022,Basic,
+1077,Robert Wilson,robert.wilson@job.com,701.345.5402,60,59048,16/03/2023,Premium,Active
+1078,Chris Garcia,chris.garcia@job.com,987.295.7600,27,98446,15/06/2023,Standard,Inactive
+1079,Michelle Davis,michelle.davis@company.com,16995351040,50,131170,,Standard,1
+1080,Heather Davis,HEATHER.DAVIS@COMPANY.COM,18508806869,47,27599,30/05/2022,Basic,Inactive
+1081,Chris Williams,chris.williams@test.com,416-706-5399,,71018,25/03/2023,basic,Active
+1082,Michael Perez,michael.perez@company.com,,58,104374,07/10/2023,Standard,Active
+1083,Sarah Rodriguez,sarah.rodriguez@example.com,(361) 651-8479,33,100483,18/01/2022,Standard,Active
+1084,Sarah Martin,sarah.martin@example.com,(335) 865-5945,26,95574,18/10/2021,Premium,Active
+1085,Stephanie Taylor,stephanie.taylor@example.com,4562847092,23,127276,04/09/2023,Standard,Inactive
+1086,Jane Thompson,jane.thompson@job.com,943-916-4836,27,67610,16/09/2021,PREMIUM,0
+1087,Jennifer White,jennifer.white@company.com,000-000-0000,82,88896,17/12/2021,Premium,Inactive
+1088,Ashley Williams,ashley.williamsjob.com,5513237919,56,83580,02/07/2024,Premium,Active
+1089,Jennifer Brown,jennifer.brown@example.com,304-305-6133,54,,25/10/2020,Basic,Active
+1090,Ashley Hernandez,ashley.hernandez@job,(336) 856-3340,74,43985,02/08/2024,Basic,Inactive
+1091,Ashley Perez,ashley.perez@example.com,559.939.4490,21,108962,04/11/2023,Basic,1
+1092,Stephanie  Jackson,stephanie..jackson@job.com,(422) 288-2646,46,69222,31/03/2024,Standard,Active
+1093,Emma Miller,emma.miller@test.com,(639) 522-3290,68,105256,24/06/2020,Bascic,Active
+1094,William Anderson,william.anderson@company.com,9388225668,55,136267,21/04/2020,Standard,1
+1095,Heather White,heather.whitecompany.com,508.410.9482,,,25/06/2023,Premium,Inactive
+1096,Matthew Martin,matthew.martintest.com,(445) 706-7322,,110591,, Basic,Inactive
+1097,Jennifer  Martinez,jennifer..martinez@test.com,(212) 569-6185,19,60058,21/11/2023,Standard,Active
+1098,Amy Thomas,amy.thomas@company.com,000-000-0000,36,76833,16/09/2021,Basic,Inactive
+1099,Matthew Jackson,matthew.jackson@test.com,(269) 214-5295,18,83313,16/02/2020,Standard,Active
+1100,Amy Jones123,amy.jones@job.com,4938439209,68,148046,24/02/2024,Premium,Inactive
+1101,Mark Brown,mark.brown@company.com,(750) 830-3501,28,101928,21/02/2021,Basic,1
+1102,Anthony Taylor,anthony.taylor@test.com,359-749-6353,62,84020,16/03/2024,Standard,Inactive
+1103,Sarah Anderson,sarah.anderson@job.com,2675178167,83,49102,16/09/2022,Basic,
+1104,Amanda Martin,amanda.martin@test.com,644.3,41,41389,16/10/2020,Standard ,Active
+1105,Elizabeth Taylor,elizabeth.taylor@job.com,(882) 959-3877,50,111772,30/09/2023,Premium,Active
+1106,Lisa White,lisa.white@company,5557359474,41,122501,08/04/2023,Premium,1
+1107,Matthew Rodriguez,matthew.rodriguez@job.com,99947,24,35494,,Standard,Active
+1108,chris Anderson,chris.andersonexample.com,(639) 478-9582,,77041,15/02/2021,Standard ,Active
+1109,Amanda Williams,amanda.williams@company.com,(666) 723-6900,27,33361,19/06/2023,Premium,1
+1110,anthony Miller,anthony.miller@example.com,000-000-0000,26,,10/08/2022,Standard,Inactive
+1111,Tom Wilson,tom.wilson@example.com,212-450-1753,43,93679,18/01/2020,Premium ,Inactive
+1112,John Jackson123,john.jackson@job.com,(236) 766-7870,80,35911,14/09/2023,Premium,Inactive
+1113,Mark Gonzalez,mark.gonzalez@company.com,(279) 785-7108,,106015,11/10/2024,Basic,0
+1114,Elizabeth White,elizabeth.white@test.com,(728) 247-7568,54,110830,,Basic,Active
+1115,Amy Rodriguez123,amy.rodriguez@test,(535) 288-8483,42,,14/12/2024,Basic,Inactive
+1116,Jennifer Gonzalez,jennifer.gonzalez@test.com,837-448-8600,75,83085,18/04/2021,Premium,0
+1117,stephanie  Moore,stephanie..moore@job.com,000-000-0000,57,42206,,STANDARD,Active
+1118,Matthew Wilson,matthew.wilson@job.com,1754,37,47361,,Basic,Active
+1119,Michael Hernandez,michael.hernandez@test.com,(873) 585-6038,64,111972,11/02/2021,Standard,Inactive
+1120,Michael Rodriguez,michael.rodriguez@company.com,(261) 345-5584,72,144966,26/07/2022,Standard,Inactive
+1121,MIKE Thomas,mike.thomas@job.com,19175818511,58,87410,30/12/2023,Premium,0
+1122,Matthew Williams,matthew.williams@job.com,603-276-2020,46,139150,21/05/2021,Basic,Active
+1123,Amy Miller,amy.miller@test.com,522-602-6345,73,60705,,Basic,1
+1124,Michelle Perez,michelle.perez@test.com,(998) 988-2785,64,42709,07/02/2020,Standard,Active
+1125,Chris Lopez,chris.lopez@job.com,748-566-4401,60,,21/12/2021,Basic,Active
+1126,Sarah  Garcia,sarah..garcia@test.com,(902) 511-1660,,107712,11/09/2021,Basic,Active
+1127,Emma Jackson,emma.jackson@company.com,(564) 605-9412,31,139988,23/10/2022,Standard,Active
+1128,ANTHONY Miller,anthony.miller@example.com,(614) 663-5093,28,93610,06/05/2020,Standard,1
+1129,Mark Martinez,mark.martinez@company.com,(263) 999-4641,35,94964,04/12/2024,Premium,Inactive
+1130,Daniel Johnson,daniel.johnson@test.com,18602865240,,70504,26/07/2024,Basic,Active
+1131,James Lee,james.lee@example.com,(861) 654-3110,27,54770,,Standard,Inactive
+1132,Sarah Wilson,sarah.wilson@test.com,16722513752,,82915,30/11/2021,Basic,1
+1133,Anthony Jones,anthony.jones@job.com,(591) 899-7990,69,79028,,Premium,Active
+1134,Chris Martin,chris.martin@job.com,352.235.5026,45,64789,20/10/2023,Premium,Inactive
+1135,Ashley White,ashley.white@test.com,(289) 486-7275,,93592,05/07/2023,BASIC,1
+1136,Mike Rodriguez,mike.rodriguez@job.com,18457561319,,136142,04/05/2022,Basic,Active
+1137,Stephanie Perez123,stephanie.perez@example.com,000-000-0000,46,62586,08/11/2020,Basic,1
+1138,Lisa Thomas,lisa.thomas@job.com,18114241480,,26090,01/10/2021,Basic,Inactive
+1139,Stephanie Thompson,stephanie.thompson@example.com,17425664813,82,89478,,Premium,1
+1140,Tom Williams,tom.williams@job.com,954.257.4594,68,2805376,10/10/2020,Standard,
+1141,Amy Thompson,amy.thompson@job.com,377.380.4875,19,103250,01/11/2023,Basic,Inactive
+1142,John Williams,john.williams@company.com,12289206761,39,25946,01/11/2024,Standard,Active
+1143,Jennifer Jackson,jennifer.jackson@job.com,-704,35,49716,11/11/2023,Standard,
+1144,Elizabeth Moore,elizabeth.moore@job.com,(257) 438-4584,40,98472,08/12/2022,BASIC,Inactive
+1145,Chris Davis,chris.davis@example.com,,36,57754,,Basic,Active
+1146,Amanda Thompson,amanda.thompson@test,8009213320,79,121615,05/09/2023,Premium,1
+1147,Elizabeth Jackson,elizabeth.jackson@company.com,582.921.7481,10,133583,,Premium ,1
+1148,Sarah Miller,sarah.miller@test.com,949.647.8982,51,59469,13/01/2024,PREMIUM,1
+1149,Anthony Moore123,anthony.moore@test.com,8285654657,23,106962,12/10/2021,Standard,Inactive
+1150,Emma Thompson,emma.thompson@company.com,5013303911,84,125209,25/10/2020,Standard,Active
+1151,Sarah Smith,sarah.smith@company.com,(989) 781-1530,,105375,16/04/2024, Premium,Active
+1152,Lisa Johnson,lisa.johnsonjob.com,18547792705,23,114737,27/04/2022,Standard,Active
+1153,Mike Gonzalez,mike.gonzalez@job.com,15273712453,59,109994,,Basic,Inactive
+1154,David Jones,david.jones@company,-211,84,131012,28/07/2023,Standard,Inactive
+1155,Amy Brown,amy.brown@example.com,(462) 310-1020,53,49641,,Premium,Inactive
+1156,Stephanie Davis,stephanie.davis@company.com,623-704-7204,51,48908,13/01/2021,Standard,Inactive
+1157,Emma Jackson,emma.jackson@test.com,(791) 866-4695,40,39464,07/06/2023,Basic,0
+1158,STEPHANIE White,stephanie.white@company.com,(526) 467-2715,66,105967,25/05/2023,Standard,Active
+1159,Mike Garcia,mike.garcia@example.com,760.295.6536,27,116812,17/04/2021,Premium ,Active
+1160,Ashley  Anderson,ashley..anderson@job.com,(869) 368-8113,66,49613,17/04/2021,basic,1
+1161,Emma Thompson,emma.thompson@company,(913) 767-9849,,44942,05/01/2022,Premium,Inactive
+1162,Amy Rodriguez,amy.rodriguez@test.com,(785) 762-9043,62,95119,16/05/2024,Premium,1
+1163,Tom Wilson,tom.wilson@test.com,-877,79,38405,25/10/2022,Standard,Active
+1164,chris Jones,chris.jones@job.com,13748535781,-1,41389,18/08/2022,Premium,Inactive
+1165,Daniel Martinez,daniel.martinez@job.com,(682) 700-5341,47,120303,04/02/2022,Basic,Active
+1166,Michael Rodriguez,michael.rodriguez@company.com,(578) 391-8303,53,36822,04/03/2022,Standart,Active
+1167,Jane  Wilson,jane..wilson@job.com,7772633476,41,89694,08/10/2020,basic,Active
+1168,Amy Perez,amy.perez@job.com,754.623.4727,33,80082,08/04/2021,Standard,Inactive
+1169,Mark Perez,mark.perez@example.com,748.903.8779,71,129787,14/04/2024,Standard,0
+1170,Lisa Thomas,lisa.thomas@test.com,931.235.9226,32,73679,,Premium,Inactive
+1171,Daniel Wilson,DANIEL.WILSON@COMPANY.COM,(350) 323-8357,79,128733,06/10/2023,Basic,1
+1172,Jessica Wilson,jessica.wilson@example.com,(329) 243-7936,38,35515,,Standard,1
+1173,Robert Wilson,robert.wilson@company.com,351-809-5225,70,149733,,Premim,Inactive
+1174,mark Moore,mark.moore@company.com,,23,59931,27/10/2021,Basic,Active
+1175,Mark  Gonzalez,mark..gonzalez@test.com,9178389561,38,34356,,Premium,Inactive
+1176,Amanda Anderson,amanda.anderson@company.com,17969762641,83,48803,30/05/2023, Basic,Inactive
+1177,Mark Thomas,mark.thomas@job.com,(748) 552-7732,36,135302,18/02/2022,Premium,Inactive
+1178,Amanda Jones,amanda.jones@job.com,(376) 482-7602,51,75014,18/03/2022,Basic,0
+1179,Sarah Smith,sarah.smith@job.com,(539) 907-4892,,40985,29/02/2024,Basic,Inactive
+1180,Lisa Martinez,lisa.martinez@job.com,(545) 510-6094,,,03/01/2023,Standard,Active
+1181,Sarah Anderson,sarah.anderson@company.com,14333375923,54,,28/11/2024,Premium,Active
+1182,Anthony Martinez,anthony.martinez@job.com,(626) 819-2462,,121380,19/03/2020,Basic,Inactive
+1183,Michelle Davis,michelle.davis@company.com,19777287126,79,93306,13/07/2022,Standard,
+1184,Stephanie Taylor,stephanie.taylorjob.com,7186133222,70,52321,02/12/2024,Basic,Inactive
+1185,Mark Wilson,mark.wilson@example.com,-405,41,114318,18/05/2021,Premim,1
+1186,John Martinez,john.martinez@company.com,(569) 921-4262,83,,21/03/2022,Standard,Active
+1187,Jennifer Thomas,jennifer.thomas@job.com,(326) 897-1500,61,122612,19/07/2025,Standard,Active
+1188,Robert Moore,robert.mooretest.com,685-800-6730,,,15/07/2023,Premium,Active
+1189,Tom Thompson,tom.thompson@test,292-491-1449,34,51047,,Basic,Active
+1190,Ashley Johnson,ashley.johnson@company.com,,43,31827,,Basic ,Inactive
+1191,Michael Gonzalez,michael.gonzaleztest.com,999-985-1145,82,53545,25/08/2021,Standard,Active
+1192,David Thomas,david.thomas@test.com,4294586004,37,,21/04/2020,Premium,Active
+1193,Robert Brown,robert.brown@company.com,(557) 670-5128,40,129122,18/10/2020,Basic,1
+1194,William Smith,william.smith@job.com,798.304.1120,22,40682,16/08/2023,Basic,Inactive
+1195,David Williams,david.williams@test.com,(862) 808-5631,,56862,19/01/2024,Standard,Active
+1196,Anthony Gonzalez,anthony.gonzalez@test.com,(855) 532-5536,34,30504,03/01/2021,Standard,1
+1197,Amanda Gonzalez,amanda.gonzalez@example.com,13537294937,260,115538,26/11/2023,Basic,Inactive
+1198,michelle Moore,michelle.moore@job,8765273292,65,103146,16/03/2022,Standard,Active
+1199,AMY White,amy.white@example.com,6286147361,,126029,12/07/2022,BASIC,Active
+1200,Sarah  Anderson,sarah..anderson@company.com,5519434643,,45669,18/07/2022,Premium,1
+1201,Robert Johnson,robert.johnson@job.com,15677195918,30,114908,30/12/2023,Premium,Inactive
+1202,James Wilson,JAMES.WILSON@COMPANY.COM,2996823096,50,147008,,Standard ,
+1203,Mike Martin,mike.martin@job.com,(896) 543-2463,47,,21/08/2023,Standard,Inactive
+1204,Daniel Jones,daniel.jones@test.com,539.580.5269,,45174,,Standard,Active
+1205,Jennifer Smith,jennifer.smith@company.com,849-797-2166,50,128739,21/08/2020,Premium,Inactive
+1206,AMANDA Garcia,amanda.garcia@test.com,(742) 505-7768,18,88942,22/07/2023,Basic,Active
+1207,Ashley Thompson,ashley.thompson@example.com,(619) 783-8496,33,98184,08/12/2022,Basic,Inactive
+1208,Michael Thomas,MICHAEL.THOMAS@JOB.COM,540-8,66,124181,28/01/2024,Premium,Active
+1209,Emma Thompson,emma.thompson@job.com,6624804430,58,141889,13/11/2022,Basic,Inactive
+1210,Chris Smith,chris.smith@job.com,(981) 998-2442,31,50292,23/11/2020,Premium,Active
+1211,Jane Martin,jane.martin@job.com,,50,74514,18/02/2022,Premium,1
+1212,Mark Davis,mark.davis@job.com,(529) 975-9700,72,42659,15/12/2020,Premium,1
+1213,Stephanie Rodriguez,stephanie.rodriguez@test.com,(910) 552-6113,53,30175,,basic,Active
+1214,DAVID Lee123,david.lee@company.com,246-505-5764,,82344,14/11/2024, Standard,1
+1215,Jane Jackson,jane.jackson@test.com,19033376615,79,96137,24/04/2024,Standard,0
+1216,Robert White,robert.white@company.com,,79,49874,09/05/2022,Premium,Active
+1217,Jessica Taylor,jessica.taylorexample.com,000-000-0000,57,96253,04/02/2024,Basic,1
+1218,Michelle Martinez,michelle.martinez@test.com,000-000-0000,68,120997,02/07/2022,Premium ,Inactive
+1219,Mike Jones,mike.jones@company.com,(310) 869-1323,33,138726,05/01/2021,Premium,Active
+1220,Jennifer Gonzalez,jennifer.gonzalez@example.com,000-000-0000,75,144861,26/09/2020,Standard,0
+1221,HEATHER Gonzalez,heather.gonzalez@test.com,6308772654,38,46016,11/05/2025,Standard,1
+1222,Jennifer Rodriguez,JENNIFER.RODRIGUEZ@COMPANY.COM,(307) 723-2928,83,45319,16/10/2022,Basic,Inactive
+1223,Sarah Perez123,sarah.perez@job.com,19964699571,61,132402,24/06/1902,Basic,Active
+1224,Amanda Hernandez,amanda.hernandez@example.com,,24,73118,20/03/2021,Standard,Active
+1225,William Thompson,william.thompson@example.com,(291) 313-9095,18,126701,01/09/2022,Basic,Inactive
+1226,Jane Martinez,jane.martinez@example.com,303-462-4787,36,74681,23/06/2022,Premium ,Active
+1227,Amanda Jones,amanda.jones@company.com,378-240-5760,73,140727,14/05/2023, Standard,1
+1228,Anthony Moore,anthony.moore@company.com,19762461158,51,137306,11/12/2024,Basic,Active
+1229,ashley Lee,ashley.lee@test.com,16488365395,28,106290,23/06/2023,Premium,Active
+1230,Jane Thompson,jane.thompson@company.com,(610) 609-8479,67,119503,06/08/2024,Basic,1
+1231,Jessica Brown,jessica.brown@example.com,(864) 370-2852,,95642,10/04/2020,Standard,0
+1232,matthew Lopez,matthew.lopez@company.com,13066268908,25,49886,22/04/2020,Basic,Active
+1233,William Williams,william.williams@job.com,15678261472,,90214,16/03/2020,Standard ,Active
+1234,John Johnson,john.johnsonexample.com,16946992850,43,45202,07/03/2020,Premium,Inactive
+1235,DANIEL Miller,daniel.miller@company.com,2129219598,,67283,12/09/2024,Basic,Inactive
+1236,Amy Hernandez,AMY.HERNANDEZ@TEST.COM,885.546.9504,83,67208,09/11/2021,Basic,0
+1237,Chris Jones,chris.jones@example,4546936664,47,93576,03/08/2025,Basic,Active
+1238,Sarah Perez,sarah.perez@company.com,827.255.1190,22,30737,,Premium,0
+1239,Heather Davis123,heather.davis@example.com,369-276-9055,18,42009,04/12/2023,Basic,Inactive
+1240,David White,david.white@job.com,763-858-7203,,29099,31/05/2024,Premium,Active
+1241,William Lopez,william.lopez@test.com,658-290-9166,68,88618,21/07/2022,Premium,Active
+1242,Stephanie Johnson,stephanie.johnson@test.com,(305) 613-7755,43,29170,07/01/2022,Premium,1
+1243,Emma Anderson123,emma.anderson@test.com,18338525990,26,134615,,Premium,Inactive
+1244,Michael Wilson,michael.wilson@job.com,15495721889,,89213,15/02/2022,Basic,
+1245,Mike Williams,mike.williams@job.com,8146846952,62,116922,02/04/2024,Premium,Active
+1246,Stephanie Lee,stephanie.lee@test.com,549.563.5783,53,31433,01/02/2023,Standard,Active
+1247,Stephanie Taylor,stephanie.taylor@job.com,(704) 343-7704,42,104423,22/08/2022,Premium,Inactive
+1248,Heather Thompson,heather.thompson@example.com,16024208488,69,26715,23/11/2023,Premium,Active
+1249,Amanda White,amanda.white@test.com,2478483018,51,,,basic,Active
+1250,Ashley Hernandez,ashley.hernandez@example.com,337.7,82,,04/03/2021,BASIC,0
+1118,Matthew Wilson,matthew.wilson@job.com,1754,37,47361,,Basic,Active
+1108,chris Anderson,chris.andersonexample.com,(639) 478-9582,,77041,15/02/2021,Standard ,Active
+1044,Michael White,michael.white@example.com,(618) 889-9180,50,114959,07/07/2020,Standard,Active
+1195,David Williams,david.williams@test.com,(862) 808-5631,,56862,19/01/2024,Standard,Active
+1088,Ashley Williams,ashley.williamsjob.com,5513237919,56,83580,02/07/2024,Premium,Active
+1057,Jennifer Jackson,jennifer.jackson@company.com,402-660-8037,19,136978,05/10/2024,Bascic,Inactive
+1227,Amanda Jones,amanda.jones@company.com,378-240-5760,73,140727,14/05/2023, Standard,1
+1076,Heather Garcia123,heather.garcia@company.com,3354553396,37,83963,26/09/2022,Basic,
+1155,Amy Brown,amy.brown@example.com,(462) 310-1020,53,49641,,Premium,Inactive
+1041,Elizabeth Jackson,elizabeth.jackson@example.com,(448) 533-7161,33,80466,26/06/2021,Premium,Active
+1203,Mike Martin,mike.martin@job.com,(896) 543-2463,47,,21/08/2023,Standard,Inactive
+1204,Daniel Jones,daniel.jones@test.com,539.580.5269,,45174,,Standard,Active
+1088,Ashley Williams,ashley.williamsjob.com.backup,555-555-5555,56,83580,02/07/2024,Premium,Active
+1118,Matthew Wilson,matthew.wilson@job.com.backup,555-555-5555,37,47361,,Basic,Active
+1045,Tom Moore,tom.moore@example.com.backup,555-555-5555,77,84925,11/03/2023,Premium,Inactive
+1211,Jane Martin,jane.martin@job.com.backup,555-555-5555,50,74514,18/02/2022,Premium,1
+1118,Matthew Wilson,matthew.wilson@job.com.backup,555-555-5555,37,47361,,Basic,Active
+1111,Tom Wilson,tom.wilson@example.com.backup,555-555-5555,43,93679,18/01/2020,Premium ,Inactive
+1243,Emma Anderson123,emma.anderson@test.com.backup,555-555-5555,26,134615,,Premium,Inactive
